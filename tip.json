@@ -1,0 +1,6 @@
+{
+  "_说明": "打赏开关。mode: off（默认，不显示入口）/ links（只列第三方打赏页，不接后端）/ api（接 server/ 打赏接口）。改完直接覆盖 site/tip.json 即可生效，不用重新构建。示例见 docs/打赏与支付方案.md 第六节。",
+  "mode": "off",
+  "apiBase": "",
+  "links": []
+}
